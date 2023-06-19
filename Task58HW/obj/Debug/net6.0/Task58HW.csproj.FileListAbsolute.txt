@@ -1,0 +1,15 @@
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\Task58HW.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\Task58HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\Task58HW.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\Task58HW.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\Task58HW.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\bin\Debug\net6.0\Task58HW.exe
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\bin\Debug\net6.0\Task58HW.deps.json
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\bin\Debug\net6.0\Task58HW.runtimeconfig.json
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\bin\Debug\net6.0\Task58HW.dll
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\bin\Debug\net6.0\Task58HW.pdb
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\Task58HW.dll
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\refint\Task58HW.dll
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\Task58HW.pdb
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\Task58HW.genruntimeconfig.cache
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task58HW\obj\Debug\net6.0\ref\Task58HW.dll
