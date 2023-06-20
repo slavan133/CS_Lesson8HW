@@ -7,6 +7,7 @@
 // 15 18
 
 
+
 int Prompt(string text)
 {
     Console.WriteLine(text);
@@ -38,10 +39,15 @@ int [,] MatrixNaMatrix (int[,] array, int [,] array2)
         return array2;
     }
     for (int i = 0; i < array.GetLength(0); ++i)
-         for (int j = 0; j < array2.GetLength(0); ++j)
+    {
+        for (int j = 0; j < array2.GetLength(0); ++j)
+        {
                     for (int n = 0; n < array2.GetLength(1); ++n)
-                        newmatrix[i, n] += array[i, j] * array2[j, n];
-            return newmatrix;
+                    {
+                      newmatrix[i, n] += array[i, j] * array2[j, n];  
+                    }
+        }               
+    }        return newmatrix;
 }
 
 void PrintArray2d(int[,] array2d)
