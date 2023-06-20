@@ -1,0 +1,15 @@
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\Task62HW.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\Task62HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\Task62HW.AssemblyInfoInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\Task62HW.AssemblyInfo.cs
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\Task62HW.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\bin\Debug\net6.0\Task62HW.exe
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\bin\Debug\net6.0\Task62HW.deps.json
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\bin\Debug\net6.0\Task62HW.runtimeconfig.json
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\bin\Debug\net6.0\Task62HW.dll
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\bin\Debug\net6.0\Task62HW.pdb
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\Task62HW.dll
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\refint\Task62HW.dll
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\Task62HW.pdb
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\Task62HW.genruntimeconfig.cache
+C:\Users\slava\OneDrive\Рабочий стол\CS_Lesson8\Task62HW\obj\Debug\net6.0\ref\Task62HW.dll
